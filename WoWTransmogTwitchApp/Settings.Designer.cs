@@ -25,7 +25,7 @@ namespace WoWTransmogTwitchApp {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("der_darkiebot")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string botname {
             get {
                 return ((string)(this["botname"]));
@@ -37,7 +37,7 @@ namespace WoWTransmogTwitchApp {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("hiytdwn3jfay5odplx5jk17njjbfrg")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string oauthtoken {
             get {
                 return ((string)(this["oauthtoken"]));
@@ -49,7 +49,7 @@ namespace WoWTransmogTwitchApp {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("der_darkie")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string channel {
             get {
                 return ((string)(this["channel"]));
