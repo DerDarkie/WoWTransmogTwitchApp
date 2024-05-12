@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WoWTransmogTwitchApp" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="botname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">der_darkiebot</Value>
+    </Setting>
+    <Setting Name="oauthtoken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hiytdwn3jfay5odplx5jk17njjbfrg</Value>
+    </Setting>
+    <Setting Name="channel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">der_darkie</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
